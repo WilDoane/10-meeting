@@ -41,6 +41,10 @@ least a day in advance, the meeting probably doesn't need to happen.
 ("The agenda is everything we've talked about recently on Slack" doesn't
 count.)
 
+**Plan to end early.** If your meeting is scheduled for 10:00-11:00, you
+should aim to end at 10:50 to give people time to get where they need to
+go next.
+
 **Include timings in the agenda.** Timings help you keep the meeting
 moving, as in, "That's very interesting, but we have five other topics
 to get through in the next fifteen minutes, so could you please make
@@ -52,10 +56,6 @@ prioritized in the same way that it is for other projects: things that
 will have high impact but take little time should be done first, and
 things that will take lots of time but have little impact should be
 skipped entirely.
-
-**Plan to end early.** If your meeting is scheduled for 10:00-11:00, you
-should aim to end at 10:50 to give people time to get where they need to
-go next.
 
 **Don't include a quiz.** There is a growing tendency in tech companies
 to have people answer a question at the end of the agenda to prove that
@@ -189,7 +189,7 @@ emailed to everyone or posted to a wiki):
     forward. The set of open issues can then serve as a starting point
     for the next meeting's agenda.
 
-## 7. Manage "that guy".
+## 7. Manage "that person".
 
 Some people are so used to the sound of their own voice that they will
 insist on talking half the time no matter how many other people are in
@@ -318,6 +318,6 @@ People Talking*. Jossey-Bass, 978-1119049715, 2016.
 Minahan A.: "Marthas Rules". *Affilia*, 1(2):53--56, 1986,
 doi:10.1177/088610998600100206.
 
-Troy C.: "Why Do Remove Meetings Suck So Much?"
+Troy C.: "Why Do Remote Meetings Suck So Much?"
 https://chelseatroy.com/2018/03/29/why-do-remote-meetings-suck-so-much/,
 2018.
